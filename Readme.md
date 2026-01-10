@@ -190,4 +190,14 @@ The design is simple to maintain, auditable, and scalable to additional users or
 
 ---
 
+## Contact Information
+
+**Victor Ogechukwu Ojeje**
+
+LinkedIn: https://www.linkedin.com/in/victorojeje/  
+Email: ojejevictor@gmail.com  
+GitHub: https://github.com/escanut
+
+---
+
 *All IP addresses and credentials shown are sanitized for documentation purposes.*
